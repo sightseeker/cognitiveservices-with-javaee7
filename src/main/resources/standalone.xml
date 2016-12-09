@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subsystem xmlns="urn:jboss:domain:naming:2.0">
+    <bindings>
+        <simple name="java:/azure/storage/accountName" value="${azure.storage.accountName}" type="java.lang.String"/>
+        <simple name="java:/azure/storage/accountKey" value="${azure.storage.accountKey}" type="java.lang.String"/>
+    </bindings>
+</subsystem>
