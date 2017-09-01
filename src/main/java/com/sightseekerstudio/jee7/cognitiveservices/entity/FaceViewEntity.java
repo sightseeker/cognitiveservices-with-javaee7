@@ -1,6 +1,3 @@
-/*
- * (C) Sony Network Communications Inc. All Rights reserved.
- */
 package com.sightseekerstudio.jee7.cognitiveservices.entity;
 
 import javax.enterprise.inject.Model;

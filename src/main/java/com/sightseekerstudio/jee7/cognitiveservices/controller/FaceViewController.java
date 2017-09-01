@@ -1,6 +1,3 @@
-/*
- * (C) Sony Network Communications Inc. All Rights reserved.
- */
 package com.sightseekerstudio.jee7.cognitiveservices.controller;
 
 import com.sightseekerstudio.jee7.cognitiveservices.entity.FaceViewEntity;
